@@ -68,10 +68,10 @@ endmodule
 ```
 
 **RTL LOGIC FOR Encoder 8 To 3 in Dataflow Modelling**
-![Logic](logic.png)
+![image](https://github.com/Adchayakiruthika18/ENCODER8TO3DATAFLOW/assets/147139995/bbd323cd-28e6-4164-ad4b-68a3e5647f71)
 
 **TIMING DIGRAMS FOR Encoder 8 To 3 in Dataflow Modelling**
-![wave](wave.png)
+![image](https://github.com/Adchayakiruthika18/ENCODER8TO3DATAFLOW/assets/147139995/9d75e7f0-a884-481f-bbb3-cc770abc3113)
 
 
 
